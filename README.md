@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @kxwhiowo
-- 👀 I’m interested in literature.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ?
+Noel, a newbie in programming.
 
 <!---
 kxwhiowo/kxwhiowo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
