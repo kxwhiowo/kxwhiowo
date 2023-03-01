@@ -2,7 +2,7 @@
 
 + Noel, a BEng year 1 student from HKU. 
 + *zn-ch*(native)/*en*
-+ Sports: Hiking/Cycling Misic: Rock/Classic
++ Sports: Hiking/Cycling Music Preference: Rock/Classic
 + Contact me at <noelliaoql@gmail.com>. 
 
 ## Programming Language
