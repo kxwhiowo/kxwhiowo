@@ -2,7 +2,7 @@
 
 + **Noel**, a BEng year 1 student from HKU. 
 + `zh-cn` (native) / `en`
-+ Sports: Hiking / Cycling
++ Sports: Hiking / Cycling / Table Tennis
 + Music Preference: Rock / Classic
 + Contact me at <noelliaoql@gmail.com>. 
 
