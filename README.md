@@ -6,7 +6,7 @@
 + Music Preference: Rock / Classic
 + Contact me at <noelliaoql@gmail.com>. 
 
-![Noel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxwhiowo&show_icons=true)
+![Noel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxwhiowo&show_icons=true&theme=radical)
 
 ## Programming Language
 
