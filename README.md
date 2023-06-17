@@ -10,7 +10,7 @@
 
 ## Programming Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxwhiowo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxwhiowo)](https://github.com/anuraghazra/github-readme-stats)
 
 + Python / C++ / C / Java
 
