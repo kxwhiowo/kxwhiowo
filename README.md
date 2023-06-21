@@ -10,7 +10,7 @@
 
 ## Programming Language
 
-+ Python / C++ / C / Java
++ Python / C++ / C / Java / Shell Script
 
 
 
