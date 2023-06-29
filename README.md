@@ -1,16 +1,17 @@
 # kxwhiowo
 
-+ **Noel**, a BEng year 1 student from HKU. 
++ **Noel**, a BEng year 1 student from HKU
 + `zh-cn` (native) / `en`
-+ Sports: Hiking / Cycling / Table Tennis
-+ Music Preference: Rock / Classic
-+ Contact me at <noelliaoql@gmail.com>. 
++ **Sports**: Hiking / Cycling / Table Tennis
++ **Music Preference**: Rock / Classic
+  + Superfan of **Oasis** and **The Rolling Stones**
++ Contact me at <noelliaoql@gmail.com>
 
 ![Noel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxwhiowo&show_icons=true&theme=radical)
 
 ## Programming Language
 
-+ Python / C++ / C / Java / Shell Script
++ C++ / C / Java / Python / Shell Script
 
 
 
