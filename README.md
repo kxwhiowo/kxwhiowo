@@ -6,7 +6,7 @@
 + **Music Preference**: Rock / Classic
   + Superfan of **Oasis** and **The Rolling Stones**
 + Contact me at <noelliaoql@gmail.com> or <kxwhi@connect.hku.hk>
-+ For other Stuffs check my personal website <kxwhiowo.github.io>!
++ For other Stuffs check my [personal website](https://kxwhiowo.github.io)!
 
 ## Programming Language
 
