@@ -1,6 +1,6 @@
 # kxwhiowo
 
-+ **Noel**, a year 2 CS student from HKU
++ **Noel**, a year 3 CS student from HKU
 + `zh-cn` (native) / `en`
 + **Sports**: Hiking / Cycling / Table Tennis
 + **Music Preference**: Rock / Classic
