@@ -7,13 +7,6 @@
   + Superfan of **Oasis** and **The Rolling Stones**
 + Contact me at <noelliaoql@gmail.com> or <kxwhi@connect.hku.hk>
 
-## Programming Language
-
-+ C++ / C / Java / Python / Shell Script
-
-
-
-
 
 <!---
 kxwhiowo/kxwhiowo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
