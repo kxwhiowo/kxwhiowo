@@ -5,7 +5,7 @@
 + **Sports**: Hiking / Cycling / Table Tennis
 + **Music Preference**: Rock / Classic
   + Superfan of **Oasis** and **The Rolling Stones**
-+ Contact me at <noelliaoql@gmail.com> or <kxwhi@connect.hku.hk>
++ Contact me at <kxwhi@connect.hku.hk>
 
 
 <!---
