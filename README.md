@@ -1,10 +1,12 @@
 # kxwhiowo
 
-+ **Noel**, a year 3 CS student from HKU
++ **Noel**, a year 4 CS student from HKU
 + `zh-cn` (native) / `en`
-+ **Sports**: Hiking / Cycling / Table Tennis
++ Interested in DCAI/Trustworthy AI
++ **Sports**: Hiking / Table Tennis
 + **Music Preference**: Rock / Classic
   + Superfan of **Oasis** and **The Rolling Stones**
++ Check my personal [website](https://kxwhiowo.github.io)!
 + Contact me at <kxwhi@connect.hku.hk>
 
 
